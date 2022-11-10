@@ -1,5 +1,6 @@
-- 👋 Hello world! I'm Ross/xyberwarfare
-- :computer: Cyber Security addict. Focused on Penetration Testing.
+- 👋 Hello world! I'm Ross.
+- 💻 Cyber Security enthusiast. Focused on Penetration Testing.
+- 🐍 Love all things Python.
 
 
 <!--
