@@ -1,7 +1,7 @@
 - 👋 Hello world! I'm Ross.
-- 💻 Cyber Security enthusiast. Focused on Penetration Testing.
+- 💻 Cyber Security enthusiast/student. Focused on Penetration Testing.
 - 🐍 Love all things Python.
-
+- 🌱 Join me on my cyber security journey!
 
 <!--
 **xyberwarfare/xyberwarfare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
