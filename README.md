@@ -1,7 +1,7 @@
 - 👋 Hello world! I'm Ross.
-- 💻 Cyber Security enthusiast/student. Focused on Penetration Testing.
-- 🐍 Love all things Python.
-- 🌱 Join me on my cyber security journey!
+- :shield: Cyber Security enthusiast/student. Focused on Penetration Testing.
+- :pirate_flag: Capture the flag player
+
 
 <!--
 **xyberwarfare/xyberwarfare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
