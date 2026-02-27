@@ -1,6 +1,5 @@
-- 👋 Hello world! I'm Ross.
-- :shield: Cyber Security enthusiast/student. Focused on Penetration Testing.
-- :pirate_flag: CTF player
+- xyberwarfare.
+- :shield: PenTester. Red Teamer. Hacker.
 
 
 <!--
